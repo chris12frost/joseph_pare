@@ -1,7 +1,6 @@
-# joseph_pare
 
-# Hi, I'm Joseph! 👋
 
+# Hi, I'm Joseph PARE!
 🎓 AI Engineering Student  
 📍 Ankara, Türkiye
 
