@@ -23,3 +23,7 @@ Currently developing my skills in:
 
 ## Technologies I'm Exploring
 🐍 Python | 🤖 Artificial Intelligence
+
+## Social networks
+[LinkedIn](https://www.linkedin.com/in/laway%C3%A9l%C3%A9-joseph-pare-284740343)
+[Instagram](https://www.instagram.com/josep_pare?cplk=N2JkbjR6aWc2d2U0)
